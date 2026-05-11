@@ -1,4 +1,4 @@
-# FMNet
-A deep learning-based method for individual tree crowns mapping in forest resource inventory
+# GMNet
+Robust Forest Tree Crown Mapping in Complex UAV Imagery via Adaptive Feature Learning and Wavelet-Detailed Preservation
 
 Code will be uploaded after acceptance.
